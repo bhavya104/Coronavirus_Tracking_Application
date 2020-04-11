@@ -22,9 +22,9 @@ In this web application the apache csv library is used to fetch data from record
  
  
  
- ```
  ### THYMELEAF 
  
+ ```
 * Thymeleaf is a Java library used to create a web application.
 * It provides full Spring Framework integration.
  
