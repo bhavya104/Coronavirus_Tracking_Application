@@ -20,10 +20,11 @@ In this web application the apache csv library is used to fetch data from record
  
  ```
  
- And for the Designing of HTML page ### thymeleaf is used 
+ 
  
  ```
- ### THYMELEAF
+ ### THYMELEAF 
+ 
 * Thymeleaf is a Java library used to create a web application.
 * It provides full Spring Framework integration.
  
