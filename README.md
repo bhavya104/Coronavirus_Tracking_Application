@@ -8,9 +8,8 @@ In this web application the apache csv library is used to fetch data from record
 			<artifactId>commons-csv</artifactId>
 			<version>1.8</version>
 		</dependency>
-    
-    ```
-    Add this dependency to your pom.xml file. 
+```
+Add this dependency to your pom.xml file. 
     
  
 ### CSV Data is fetched from the below link :
@@ -19,10 +18,9 @@ In this web application the apache csv library is used to fetch data from record
  
  
  
- 
+``` 
  ### THYMELEAF 
  
- ```
 * Thymeleaf is a Java library used to create a web application.
 * It provides full Spring Framework integration.
  
