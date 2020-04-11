@@ -13,12 +13,10 @@ In this web application the apache csv library is used to fetch data from record
     Add this dependency to your pom.xml file. 
     
  
- ```
- ### CSV Data is fetched from the below link :
+### CSV Data is fetched from the below link :
    
  https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
  
- ```
  
  
  
