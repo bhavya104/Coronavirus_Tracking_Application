@@ -29,8 +29,10 @@ Add this dependency to your pom.xml file.
  
  
  ```
- ### How to run this Application :
+
+### How to run this Application :
  * This application is made in Intelli-J platform.
  * Download and make changes in the Source code suitable according to you. 
- * When you start run application in Intelli-J platform theen open browser and run localhost:8080
- ```
+ * When you start run application in Intelli-J platform theen open browser and type localhost:8080 .
+
+```
